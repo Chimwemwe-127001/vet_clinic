@@ -16,9 +16,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Chimwemwe Sinyinza**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Chimwemwe-127001](https://github.com/Chimwemwe-127001)
+- Twitter: [@chimwewme](https://twitter.com/chimwewme)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chimwewme-sinyinza/)
 
 
 ## 🤝 Contributing
