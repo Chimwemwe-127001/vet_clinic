@@ -8,3 +8,28 @@ CREATE TABLE animals (
     neutered BOOLEAN NOT NULL,
     weight_kg DECIMAL NOT NULL
   );
+
+--                                      Table "public.animals"
+--      Column      |          Type          | Collation | Nullable |           Default            
+-- -----------------+------------------------+-----------+----------+------------------------------
+--  id              | integer                |           | not null | generated always as identity
+--  name            | character varying(100) |           | not null | 
+--  date_of_birth   | date                   |           | not null | 
+--  escape_attempts | integer                |           | not null | 
+--  neutered        | boolean                |           | not null | 
+--  weight_kg       | numeric                |           | not null |
+
+
+--Add a column species of type string to your animals
+ALTER TABLE animals ADD COLUMN species VARCHAR(250);
+
+--                                      Table "public.animals"
+--      Column      |          Type          | Collation | Nullable |           Default            
+-- -----------------+------------------------+-----------+----------+------------------------------
+--  id              | integer                |           | not null | generated always as identity
+--  name            | character varying(100) |           | not null | 
+--  date_of_birth   | date                   |           | not null | 
+--  escape_attempts | integer                |           | not null | 
+--  neutered        | boolean                |           | not null | 
+--  weight_kg       | numeric                |           | not null | 
+--  species         | character varying(250) |           |          | 
